@@ -10,3 +10,6 @@ RU:
 
 Versions and patches:
   
+_MVP 0.1_
+  Hello
+  hello
