@@ -8,8 +8,8 @@ RU:
   Приложение TaskBar+ было создано для оптимизации настройки ваших ежедневных задач. Приложение БЕСПЛАТНО и открыто для просмотра.
 Контакты смотрите ниже.
 
-Versions and patches:
-  
-_MVP 0.1_
-  Hello
-  hello
+Versions, patches and Updates:
+
+_Version MVP 0.1_
+
+    _Version MVP 0.1_ - this is a preview edition of the TaskBar+ application. In the future, new versions will be released up to _Version MVP 1.0_, which will be the final       for the MVP series. More patches and updates will follow.
